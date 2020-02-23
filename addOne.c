@@ -35,7 +35,7 @@ int* plusOne(int* A, int n1, int *len1) {
             isLeadZero = 0;
         }
     }
-    //adding 1 to each digit
+    //adding 1 to last digit, if it is 9 make it 0 and add 1 to previous
     for(i = newSize - 1; i>=0; i--) {
         if(retArray[i] != 9) {
             retArray[i] = retArray[i] + 1;

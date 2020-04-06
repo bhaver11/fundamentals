@@ -17,3 +17,12 @@
     * https://www.interviewbit.com/problems/min-steps-in-infinite-grid/ 
 5. Kth row of Pascal's triangle
     * https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+6. Maximum sub array sum using divide and conquer
+    * https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/
+    * https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3285/
+7. Find the single non-repeating number
+    * https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3283/
+    (look for solution in the solution section)
+8. Find if the number is happy number
+    * https://www.geeksforgeeks.org/happy-number/
+    * https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/

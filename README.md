@@ -28,3 +28,6 @@
     * https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/
 9. Product of array except self
     * https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/
+10. Finding an element in a rotated sorted array
+    * https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+    * https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/

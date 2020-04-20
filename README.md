@@ -31,3 +31,8 @@
 10. Finding an element in a rotated sorted array
     * https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
     * https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/
+11. Is BST symmetric (Left and right halves are mirror images)
+    * https://www.geeksforgeeks.org/check-symmetric-binary-tree-iterative-approach/
+    * https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/
+12. Construct BST from PRE-ORDER 
+    * https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3305/

@@ -36,3 +36,8 @@
     * https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/
 12. Construct BST from PRE-ORDER 
     * https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3305/
+13. Bitwise AND of the range of given numbers
+    * https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3308/
+    * https://www.geeksforgeeks.org/bitwise-and-or-of-a-range/
+14. Median of two sorted arrays
+    * https://leetcode.com/problems/median-of-two-sorted-arrays/description/

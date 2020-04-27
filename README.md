@@ -41,3 +41,5 @@
     * https://www.geeksforgeeks.org/bitwise-and-or-of-a-range/
 14. Median of two sorted arrays
     * https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+15. Maxiumal Square
+    * https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/
